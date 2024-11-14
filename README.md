@@ -18,7 +18,7 @@ Ensure you have the latest version of NodeJS installed or upgrade your current v
 
 - Clone both repos frontend and the backend
 - Install NPM packages npm install
-- Confirm the port on your computer where the backend application is running and change the port in
+- Confirm the port on your computer where the backend application is running and change the port in the project [config](https://github.com/odunmz/bind-takehome-frontend/blob/main/src/config.js) file
 
 ## Usage
 
